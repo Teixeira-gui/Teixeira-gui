@@ -1,6 +1,6 @@
 ### Olá, me chamo Gui Teixeira!
 
-- 🌱 Atualmente estudando Python.
+- 🌱 Atualmente estudando Python e Desenvolvimento Front-End
 
 <div>
   <a href="https://github.com/Teixeira-gui">
